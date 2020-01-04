@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1578167601 source:c:\users\admin\desktop\projectc\projet\main.c
+	"bib.h"
+
+1578167388 c:\users\admin\desktop\projectc\projet\bib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
